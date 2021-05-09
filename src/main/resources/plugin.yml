@@ -1,0 +1,7 @@
+name: codeslogin
+version: ${project.version}
+main: datrat.codeslogin.codesLoginMain
+api-version: 1.16
+authors: [ DatRat ]
+description: A simple plugin for logging in a server. Entry on Code's Moon Event.
+website: www.github.com/DatRatVS
