@@ -1,5 +1,5 @@
 name: codeslogin
-version: ${project.version}
+version: 1.0
 main: datrat.codeslogin.codesLoginMain
 api-version: 1.16
 authors: [ DatRat ]
@@ -9,3 +9,5 @@ website: www.github.com/DatRatVS
 commands:
   register:
     description: Registers a user.
+  login:
+    description: Log a user in.
